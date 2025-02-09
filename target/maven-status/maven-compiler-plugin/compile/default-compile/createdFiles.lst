@@ -1,0 +1,6 @@
+pageobjects\SignupPages.class
+Utilities\ScreenshotUtils.class
+Utilities\ConfigReader.class
+base\DriverManager.class
+hooks\Hooks.class
+Utilities\CommonFunctions.class
